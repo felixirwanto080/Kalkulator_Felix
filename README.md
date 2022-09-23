@@ -7,4 +7,4 @@
  Fitur yang ditawarkan:
  - Pemakaian kalkulator repetisi (Repetitive Calculator Usage)
  - Pemakaian method untuk setiap proses operasi kalkulator
- - Validasi setiap input (pada pilih operasi kalkulator, input bilangan, dan input pilihan keluar kalkulator)
+ - Validasi string, symbol, dan bukan pilihan di setiap input (pada pilih operasi kalkulator, input bilangan, dan input pilihan keluar kalkulator)
