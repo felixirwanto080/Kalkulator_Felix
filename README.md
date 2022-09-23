@@ -1,7 +1,7 @@
 # Kalkulator_Felix
- Nama: Felix Irwanto\n
- Kelompok: GameDev 3
- Tugas: [Individu] Technical Project Assignment
+ <p>Nama: Felix Irwanto</p>
+ <p>Kelompok: GameDev 3</p>
+ <p>Tugas: [Individu] Technical Project Assignment</p>
  
  Ini adalah Program Kalkulator Sederhana sebagai pemenuhan tugas [Individu] Technical Project Assignment
  Fitur yang ditawarkan:
